@@ -5,7 +5,7 @@ params:
   layout_style: grid
   palette: green
   header:
-    title: Ampersand
+    title: Link4Vets
     logo_img: images/l4vlogo.jpg
     logo_img_alt: Ampersand Logo
     has_nav: true
