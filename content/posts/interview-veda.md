@@ -4,7 +4,12 @@ subtitle: ''
 date: '2021-01-16'
 thumb_img_alt: link4vets puppy database
 content_img_alt: link4vets puppy database
-excerpt: lorem-ipsum
+excerpt: >-
+  Zoals VeDa de dierenartsen wil verbinden om het beroep te vertegenwoordigen
+  heeft ook Link4Vets zich tot doel gesteld de dierenartsen digitaal te
+  verbinden rond een aantal thema’s. Een eerste project onder Link4Vets wil de
+  centrale rol van de dierenarts in het aankoopproces van een puppy versterken.
+  Hiertoe ontwikkelden wij een gespecialiseerd platform
 layout: post
 thumb_img_path: images/site_screenshot.png
 content_img_path: images/site_screenshot.png
