@@ -11,7 +11,7 @@ content_img_path: images/1.jpg
 content_img_alt: A man standing on a rock cliff overlooking river
 layout: post
 ---
-# [](https://en.wikipedia.org/wiki/Hiking)
+[](https://en.wikipedia.org/wiki/Hiking)
 
 Er beweegt een en ander in de Vlaamse dierenartsenwereld. Sinds 1 januari 2021 staat VeDa voor de beroepsverdediging van de dierenartsen. Het is uiterst belangrijk dat de dierenartsen met één stem kunnen en zullen spreken in de contacten met alle partners in de maatschappij. De rol van de dierenarts is uiterst belangrijk voor de volksgezondheid, het dierenwelzijn en het welzijn van de dierenliefhebber. Een sterke beroepsorganisatie kan zeker ook bijdragen tot het welzijn van de dierenartsen zelf.
 
