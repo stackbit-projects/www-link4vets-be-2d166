@@ -32,7 +32,7 @@ form_fields:
     label: >-
       ik begrijp dat dit formulier mijn informatie opslaat zodat ik
       gecontacteerd kan worden.
-submit_label: Send Message
+submit_label: Versturen
 layout: contact
 ---
 
