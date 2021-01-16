@@ -2,7 +2,7 @@
 title: Wat is Link4Vets?
 subtitle: ''
 img_path: images/about.jpg
-img_alt: A man standing on a rock outside the cave
+img_alt: ''
 layout: page
 ---
 
