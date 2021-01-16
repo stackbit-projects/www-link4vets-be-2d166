@@ -1,7 +1,7 @@
 title: Stackbit Ampersand Theme
 baseURL: /
 params:
-  description: 'Link4Vets, een platform van dier'
+  description: 'Link4Vets, een platform van dierenartsen voor dierenartsen'
   layout_style: grid
   palette: green
   header:
