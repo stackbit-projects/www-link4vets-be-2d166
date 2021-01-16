@@ -24,7 +24,7 @@ params:
     has_social: true
     social_links:
       - label: Instagram
-        url: 'https://www.instagram.com/'
+        url: 'https://www.instagram.com/link4vets'
         style: icon
         icon_class: fa-instagram
         new_window: true
