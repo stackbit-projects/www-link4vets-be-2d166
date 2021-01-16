@@ -22,6 +22,7 @@ form_fields:
       - Fout op de site
       - Link4Vets Puppy Database
       - Sponsorship
+      - lorem-ipsum
   - input_type: textarea
     name: message
     label: Message
