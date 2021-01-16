@@ -1,5 +1,5 @@
 ---
-title: You’re in!
+title: Bedankt!
 layout: page
 ---
 
