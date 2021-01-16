@@ -56,8 +56,8 @@ params:
     has_subscribe: true
     subscribe_title: Schrijf je in voor Updates
     subscribe_content: >-
-      Subscribe to my email newsletter to receive useful articles and special
-      offers. This monthly email is sent out on the first of every month.
+      Schrijf je in voor onze nieuwsbrief en ontvang maandelijks de
+      belangrijkste updates over Link4Vets.
     subscribe_action: /subscribe-success
 taxonomies:
   stub: stub
