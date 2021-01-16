@@ -1,6 +1,5 @@
 ---
 title: Contact Info
-img_path: images/contact.jpg
 img_alt: Post in the door mailbox
 form_id: ''
 form_action: /contact-success
