@@ -34,6 +34,7 @@ form_fields:
       gecontacteerd kan worden.
 submit_label: Versturen
 layout: contact
+subtitle: test
 ---
 
 Fill the form below to get in touch with me.
