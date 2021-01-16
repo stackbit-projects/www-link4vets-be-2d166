@@ -6,7 +6,7 @@ params:
   palette: green
   header:
     title: Link4Vets
-    logo_img: images/l4vlogo.jpg
+    logo_img: images/l4vlogolong.jpg
     logo_img_alt: Link4Vets Logo
     has_nav: true
     nav_links:
