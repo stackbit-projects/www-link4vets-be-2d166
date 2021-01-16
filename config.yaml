@@ -43,7 +43,7 @@ params:
         style: icon
         icon_class: fa-linkedin
         new_window: true
-    has_subscribe: false
+    has_subscribe: true
     subscribe_title: Schrijf je in voor Updates
     subscribe_content: >-
       Schrijf je in voor onze nieuwsbrief en ontvang maandelijks de
