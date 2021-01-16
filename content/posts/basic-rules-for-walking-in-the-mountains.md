@@ -1,9 +1,6 @@
 ---
 title: Interview voor het VeDa Magazine
-excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+excerpt: ''
 date: '2020-01-13'
 thumb_img_path: images/site_screenshot.png
 thumb_img_alt: link4vets puppy database
