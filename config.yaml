@@ -41,7 +41,7 @@ params:
       - label: Facebook
         url: lorem-ipsum
         style: icon
-        icon_class: lorem-ipsum
+        icon_class: fa-facebook
         new_window: false
         no_follow: false
         type: action
