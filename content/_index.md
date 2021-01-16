@@ -5,7 +5,7 @@ intro_content: >
   Link4Vets is een platform van dierenartsen voor dierenartsen. Wij willen de
   dierenartsen digitaal verbinden rond een aantal thema's.
 intro_actions:
-  - label: Learn More
+  - label: Puppy Database
     url: /about
     style: primary
   - label: Contact
