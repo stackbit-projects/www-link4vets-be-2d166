@@ -33,11 +33,6 @@ params:
         style: icon
         icon_class: fa-instagram
         new_window: true
-      - label: GitHub
-        url: 'https://github.com/'
-        style: icon
-        icon_class: fa-github
-        new_window: true
       - label: LinkedIn
         url: 'https://www.linkedin.com/'
         style: icon
