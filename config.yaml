@@ -38,7 +38,7 @@ params:
         style: icon
         icon_class: fa-linkedin
         new_window: true
-      - label: lorem-ipsum
+      - label: Facebook
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
