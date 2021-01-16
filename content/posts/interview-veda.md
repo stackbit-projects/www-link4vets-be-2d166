@@ -2,7 +2,7 @@
 title: Interview met het VeDa Magazine
 subtitle: ''
 date: '2021-01-16'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: link4vets puppy database
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 layout: post
