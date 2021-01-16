@@ -21,7 +21,7 @@ form_fields:
     options:
       - Fout op de site
       - Link4Vets Puppy Database
-      - Other
+      - Sponsorship
   - input_type: textarea
     name: message
     label: Message
