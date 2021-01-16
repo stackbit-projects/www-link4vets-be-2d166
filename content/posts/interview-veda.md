@@ -6,6 +6,7 @@ thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 layout: post
+thumb_img_path: images/site_screenshot.png
 ---
 ## Lorem ipsum
 
