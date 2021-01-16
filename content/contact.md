@@ -16,7 +16,7 @@ form_fields:
     is_required: true
   - input_type: select
     name: subject
-    label: Subject
+    label: Onderwerp
     default_value: Please select
     options:
       - Error on the site
