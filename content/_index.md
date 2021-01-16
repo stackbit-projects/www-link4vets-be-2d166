@@ -6,7 +6,7 @@ intro_content: >
   dierenartsen digitaal verbinden rond een aantal thema's.
 intro_actions:
   - label: Puppy Database
-    url: /about
+    url: 'https://nestjes.link4vets.be'
     style: primary
   - label: Contact
     url: /contact
