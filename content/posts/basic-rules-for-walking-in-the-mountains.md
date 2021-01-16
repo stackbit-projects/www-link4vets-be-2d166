@@ -13,6 +13,8 @@ content_img_path: images/violet-eggplant.png
 content_img_alt: link4vets puppy database
 layout: post
 ---
+# Link4Vets, een platform van dierenartsen voor dierenartsen[](https://en.wikipedia.org/wiki/Hiking)
+
 [](https://en.wikipedia.org/wiki/Hiking)Er beweegt een en ander in de Vlaamse dierenartsenwereld. Sinds 1 januari 2021 staat VeDa voor de beroepsverdediging van de dierenartsen. Het is uiterst belangrijk dat de dierenartsen met één stem kunnen en zullen spreken in de contacten met alle partners in de maatschappij. De rol van de dierenarts is uiterst belangrijk voor de volksgezondheid, het dierenwelzijn en het welzijn van de dierenliefhebber. Een sterke beroepsorganisatie kan zeker ook bijdragen tot het welzijn van de dierenartsen zelf.
 
 Zoals VeDa de dierenartsen wil verbinden om het beroep te vertegenwoordigen heeft ook Link4Vets zich tot doel gesteld de dierenartsen digitaal te verbinden rond een aantal thema’s. Een eerste project onder Link4Vets wil de centrale rol van de dierenarts in het aankoopproces van een puppy versterken. Hiertoe ontwikkelden wij een gespecialiseerd platform waarmee de geregistreerde dierenarts aan zijn klanten een uitnodiging kan sturen om een nestje te publiceren. De gepubliceerde nestjes kunnen door alle geregistreerde dierenartsen geraadpleegd worden op *nestjes.link4vets*. Dit laat hen toe hun klanten te begeleiden in hun zoektocht naar en de eventuele aankoop van een pup.
@@ -40,4 +42,3 @@ Bij *Catherine Geutjens*, dierenarts in Heusden-Zolder, ontstond enkele jaren ge
 **Catherine**: Wij zijn ervan overtuigd dat een platform door en voor dierenartsen in de toekomst nog heel wat mogelijkheden biedt. Wij blijven werken aan ons aanbod van toegespitste diensten die het dagelijkse werk van de dierenartsen ondersteunen en vereenvoudigen. Zo zouden er deelplatformen kunnen ontstaan waarin dierenartsen met bepaalde gedeelde interesses elkaar gemakkelijk kunnen vinden. Wij kijken er zeker ook naar uit nieuwe ideeën aangereikt te krijgen vanuit het werkveld zelf. Deze kunnen dan verder uitgewerkt worden samen met ons informaticateam.
 
 Vanaf 1 februari 2021 zal Link4Vets online zijn (www.link4Vets.be) en kunnen de geïnteresseerde dierenartsen zich registreren voor deelname aan het platform *nestjes.link4vets* en het versturen van uitnodigingen voor het plaatsen van nestjes naar hun klanten. De eerste maanden zal voor de kwekers trouwens een tijdelijke korting van 90 % gegeven worden zodat het publiceren van een nestje hen tot 1 mei 2021 slechts 1,99 € zal kosten.
-
