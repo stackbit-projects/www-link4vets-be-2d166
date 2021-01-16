@@ -11,7 +11,7 @@ content_img_path: images/1.jpg
 content_img_alt: A man standing on a rock cliff overlooking river
 layout: post
 ---
-# [](https://en.wikipedia.org/wiki/Hiking)Link4Vets, een platform van dierenartsen voor dierenartsen
+# [](https://en.wikipedia.org/wiki/Hiking)
 
 Er beweegt een en ander in de Vlaamse dierenartsenwereld. Sinds 1 januari 2021 staat VeDa voor de beroepsverdediging van de dierenartsen. Het is uiterst belangrijk dat de dierenartsen met één stem kunnen en zullen spreken in de contacten met alle partners in de maatschappij. De rol van de dierenarts is uiterst belangrijk voor de volksgezondheid, het dierenwelzijn en het welzijn van de dierenliefhebber. Een sterke beroepsorganisatie kan zeker ook bijdragen tot het welzijn van de dierenartsen zelf.
 
@@ -33,11 +33,10 @@ Bij *Catherine Geutjens*, dierenarts in Heusden-Zolder, ontstond enkele jaren ge
 
 **Vedascoop: Zijn er ook voordelen voor de kandidaat kopers?**
 
-*Catherine*: Het grootste voordeel voor de kopers is het feit dat zij in heel het proces van kiezen tot aankopen professioneel begeleid worden door hun dierenarts. Daardoor zal het risico op een foutieve aankoop zeker kleiner zijn en zullen er minder dieren achtergelaten worden of in de asielen terecht komen. Wanneer de database van *nestjes.link4vets *goed gevuld is zal het ook niet meer nodig zijn het brede internet af te schuimen naar te koop aangeboden dieren. Wie op zoek gaat via Google loopt een groot risico terecht te komen bij minder betrouwbare kwekers en verkopers, die er niet voor terugdeinzen de klant te bewegen tot een impulsaankoop. Het feit dat zowel de kwekers als de kopers begeleid worden door hun eigen dierenarts zal de risico’s op een ongelukkige aankoop zeker beperken.
+*Catherine*: Het grootste voordeel voor de kopers is het feit dat zij in heel het proces van kiezen tot aankopen professioneel begeleid worden door hun dierenarts. Daardoor zal het risico op een foutieve aankoop zeker kleiner zijn en zullen er minder dieren achtergelaten worden of in de asielen terecht komen. Wanneer de database van \*nestjes.link4vets \*goed gevuld is zal het ook niet meer nodig zijn het brede internet af te schuimen naar te koop aangeboden dieren. Wie op zoek gaat via Google loopt een groot risico terecht te komen bij minder betrouwbare kwekers en verkopers, die er niet voor terugdeinzen de klant te bewegen tot een impulsaankoop. Het feit dat zowel de kwekers als de kopers begeleid worden door hun eigen dierenarts zal de risico’s op een ongelukkige aankoop zeker beperken.
 
 **Vedascoop: Wat mogen wij in de toekomst nog verwachten van Link4Vets?**
 
 *Catherine*: Wij zijn ervan overtuigd dat een platform door en voor dierenartsen in de toekomst nog heel wat mogelijkheden biedt. Wij blijven werken aan ons aanbod van toegespitste diensten die het dagelijkse werk van de dierenartsen ondersteunen en vereenvoudigen. Zo zouden er deelplatformen kunnen ontstaan waarin dierenartsen met bepaalde gedeelde interesses elkaar gemakkelijk kunnen vinden. Wij kijken er zeker ook naar uit nieuwe ideeën aangereikt te krijgen vanuit het werkveld zelf. Deze kunnen dan verder uitgewerkt worden samen met ons informaticateam.
 
 Vanaf 1 februari 2021 zal Link4Vets online zijn (www.link4Vets.be) en kunnen de geïnteresseerde dierenartsen zich registreren voor deelname aan het platform *nestjes.link4vets* en het versturen van uitnodigingen voor het plaatsen van nestjes naar hun klanten. De eerste maanden zal voor de kwekers trouwens een tijdelijke korting van 90 % gegeven worden zodat het publiceren van een nestje hen tot 1 mei 2021 slechts 1,99 € zal kosten.
-
