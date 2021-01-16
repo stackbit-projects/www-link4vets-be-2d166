@@ -1,6 +1,6 @@
 ---
 title: Interview met het VeDa Magazine
-subtitle: lorem-ipsum
+subtitle: ''
 date: '2021-01-16'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
