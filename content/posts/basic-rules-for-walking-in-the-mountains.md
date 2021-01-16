@@ -7,7 +7,7 @@ excerpt: >-
 date: '2020-01-13'
 thumb_img_path: images/site_screenshot.png
 thumb_img_alt: link4vets puppy database
-content_img_path: images/1.jpg
+content_img_path: images/violet-eggplant.png
 content_img_alt: A man standing on a rock cliff overlooking river
 layout: post
 ---
