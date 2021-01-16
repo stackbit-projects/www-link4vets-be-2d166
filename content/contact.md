@@ -19,7 +19,7 @@ form_fields:
     label: Onderwerp
     default_value: Kies een onderwerp
     options:
-      - Error on the site
+      - Fout op de site
       - Sponsorship
       - Other
   - input_type: textarea
