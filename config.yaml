@@ -29,7 +29,7 @@ params:
         icon_class: fa-instagram
         new_window: true
       - label: LinkedIn
-        url: 'https://www.linkedin.com/'
+        url: 'https://www.linkedin.com/link4vets'
         style: icon
         icon_class: fa-linkedin
         new_window: true
