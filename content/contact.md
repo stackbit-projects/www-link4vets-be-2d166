@@ -36,5 +36,4 @@ submit_label: Versturen
 layout: contact
 subtitle: ''
 ---
-
-Fill the form below to get in touch with me.
+Neem contact op via onderstaand formulier.
