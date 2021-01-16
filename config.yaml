@@ -8,7 +8,7 @@ params:
     title: Link4Vets
     logo_img: images/l4vlogo.jpg
     logo_img_alt: Link4Vets Logo
-    has_nav: false
+    has_nav: true
     nav_links:
       - label: Home
         url: /
