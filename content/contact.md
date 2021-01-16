@@ -17,7 +17,7 @@ form_fields:
   - input_type: select
     name: subject
     label: Onderwerp
-    default_value: Please select
+    default_value: Kies een onderwerp
     options:
       - Error on the site
       - Sponsorship
