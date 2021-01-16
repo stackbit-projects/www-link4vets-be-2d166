@@ -25,7 +25,7 @@ form_fields:
       - lorem-ipsum
   - input_type: textarea
     name: message
-    label: Message
+    label: Bericht
     default_value: Your message
   - input_type: checkbox
     name: consent
