@@ -13,7 +13,7 @@ params:
       - label: Home
         url: /
         style: link
-      - label: About
+      - label: Over
         url: /about
         style: link
       - label: Contact
