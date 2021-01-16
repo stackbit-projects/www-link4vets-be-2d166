@@ -1,7 +1,7 @@
 title: Stackbit Ampersand Theme
 baseURL: /
 params:
-  description: Medium inspired blogging theme for Stackbit
+  description: 'Link4Vets, een platform van dier'
   layout_style: grid
   palette: green
   header:
