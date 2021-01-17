@@ -46,7 +46,7 @@ params:
       Schrijf je in voor onze nieuwsbrief en ontvang maandelijks de
       belangrijkste updates over Link4Vets.
     subscribe_action: /subscribe-success
-  favicon: images/clever-mango.jpg
+  favicon: images/l4vlogo.jpg
 taxonomies:
   stub: stub
 disableKinds:
