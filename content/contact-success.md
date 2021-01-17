@@ -1,8 +1,8 @@
 ---
-title: Thank You!
+title: Dankjewel!
 layout: page
 ---
 
-Thank you for contacting me! I will get back in touch with you soon.
+Bedankt voor je bericht! We bekijken je reactie zo snel mogelijk!
 
-**Have a great day!**
+**Het Link4Vets team wenst je een fijne dag!**
