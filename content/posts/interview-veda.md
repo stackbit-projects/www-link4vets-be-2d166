@@ -13,6 +13,7 @@ excerpt: >-
 layout: post
 thumb_img_path: images/site_screenshot.png
 content_img_path: images/site_screenshot.png
+audience: Dierenartsen
 ---
 # Link4Vets, een platform van dierenartsen voor dierenartsen
 

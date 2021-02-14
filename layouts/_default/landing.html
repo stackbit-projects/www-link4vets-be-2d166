@@ -1,0 +1,27 @@
+{{ define "content" }}
+
+  {{ if .Params.has_intro }}
+  <div class="intro">
+    <div class="inner-md">
+      {{ if $.Params.intro_content }}
+      <div class="intro-text">
+        {{ partial "markdownify-block" $.Params.intro_content }}
+      </div>
+      {{ end }}
+      {{ if $.Params.intro_actions }}
+      <div class="intro-cta">
+        {{ range $action := $.Params.intro_actions }}
+        <a href="{{ $action.url | relURL }}"
+          {{ if $action.new_window }} target="_blank"{{ end }}
+          {{ if or $action.new_window $action.no_follow }} rel="{{ if $action.new_window }}noopener {{ end }}{{ if $action.no_follow }}nofollow{{ end }}"{{ end }}
+          class="{{ if or (eq $action.style "primary") (eq $action.style "secondary") }}button{{ end }}{{ if eq $action.style "secondary" }} button-secondary{{ end }}{{ if eq $action.style "info" }} button-info{{ end }}">
+          {{ $action.label }}
+        </a>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </div><!-- .intro -->
+  {{ end }}
+
+{{ end }}

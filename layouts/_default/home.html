@@ -14,7 +14,7 @@
         <a href="{{ $action.url | relURL }}"
           {{ if $action.new_window }} target="_blank"{{ end }}
           {{ if or $action.new_window $action.no_follow }} rel="{{ if $action.new_window }}noopener {{ end }}{{ if $action.no_follow }}nofollow{{ end }}"{{ end }}
-          class="{{ if or (eq $action.style "primary") (eq $action.style "secondary") }}button{{ end }}{{ if eq $action.style "secondary" }} button-secondary{{ end }}">
+          class="{{ if or (eq $action.style "primary") (eq $action.style "secondary") }}button{{ end }}{{ if eq $action.style "secondary" }} button-secondary{{ end }}{{ if eq $action.style "info" }} button-info{{ end }}">
           {{ $action.label }}
         </a>
         {{ end }}
@@ -24,9 +24,12 @@
   </div><!-- .intro -->
   {{ end }}
 
+  <!-- {{ .Title }} -->
+
   <div class="post-feed">
     {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
     {{ range $post := $display_posts }}
+    {{ if in $post.Params.audience $.Title }} 
     <article class="post post-card">
       <div class="post-card-inside">
         {{ if $post.Params.thumb_img_path }}
@@ -55,6 +58,7 @@
         </div><!-- .post-card-content -->
       </div><!-- .post-card-inside -->
     </article><!-- .post -->
+    {{ end }}
     {{ end }}
   </div><!-- .post-feed -->
 

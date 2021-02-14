@@ -8,8 +8,7 @@ Over link4vets
 
 **Wat biedt Link4Vets?**
 
-Link4Vets is een platform voor en door dierenartsen. Een eerste toepassing stelt zich tot doel ervoor te zorgen dat kwekers via het Link4Vets-platform de juiste klanten vinden voor hun pups, maar ook dat klanten op zoek naar een pup terecht komen bij het nestje dat bij hen past.
-De rol van de dierenartsen is van het grootste belang in dit proces. Zij kennen zowel hun klanten als hun kwekers. Wanneer de dierenartsen betrokken worden bij het proces van zowel het kweken als de keuze van hun klanten zullen zij ook mee garant staan voor de gezondheid en het welzijn van de pups. Bovendien zorgen zij mede voor de tevredenheid van de kwekers die een eerlijke prijs kunnen vragen voor de met zorg gekweekte dieren. De kans op een mismatch tussen baasje en dier wordt zo zeker kleiner.
+Link4Vets wil de dierenartsen digitaal verbinden rond bepaalde gedeelde thema’s. Met ons eerste project “nestjes.link4vets” versterken wij de rol van de dierenartsen in het aankoopproces van een pup. Zij kennen de kwaliteiten van hun klanten kwekers. Aan hen kunnen zij een uitnodiging sturen om een kwaliteitsvol gekweekt nestje te publiceren in een voor alle dierenartsen raadpleegbare database. Samen met de kandidaat koper zoekt de dierenarts de geschikte pup.
 
 **Hoe is Link4Vets ontstaan?**
 
