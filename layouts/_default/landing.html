@@ -9,7 +9,7 @@
       </div>
       {{ end }}
       {{ if $.Params.intro_actions }}
-      <div class="intro-cta">
+      <div class="intro-cta cta-center">
         {{ range $action := $.Params.intro_actions }}
         <a href="{{ $action.url | relURL }}"
           {{ if $action.new_window }} target="_blank"{{ end }}
