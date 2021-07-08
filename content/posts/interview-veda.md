@@ -13,10 +13,9 @@ excerpt: >-
 layout: post
 thumb_img_path: images/site_screenshot.png
 content_img_path: images/site_screenshot.png
+audience: Dierenartsen
 ---
 # Link4Vets, een platform van dierenartsen voor dierenartsen
-
-
 
 Er beweegt een en ander in de Vlaamse dierenartsenwereld. Sinds 1 januari 2021 staat VeDa voor de beroepsverdediging van de dierenartsen. Het is uiterst belangrijk dat de dierenartsen met één stem kunnen en zullen spreken in de contacten met alle partners in de maatschappij. De rol van de dierenarts is uiterst belangrijk voor de volksgezondheid, het dierenwelzijn en het welzijn van de dierenliefhebber. Een sterke beroepsorganisatie kan zeker ook bijdragen tot het welzijn van de dierenartsen zelf.
 

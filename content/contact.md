@@ -29,6 +29,7 @@ form_fields:
     default_value: Jouw Bericht
   - input_type: checkbox
     name: consent
+    is_required: true
     label: >-
       ik begrijp dat dit formulier mijn informatie opslaat zodat ik
       gecontacteerd kan worden.
